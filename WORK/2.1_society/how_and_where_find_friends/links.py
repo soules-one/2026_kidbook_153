@@ -240,7 +240,7 @@ def main():
                 md.write(f"1. **{article['title']}**\n")
                 md.write(f"   - Путь: `{article['web_path']}`\n")
                 md.write(f"   - Схожесть: {similarity:.3f} ({strength})\n")
-                md.write(f"   - Ссылка: [{article['title']}]({article['web_path']})\n\n")
+                md.write(f"   - Ссылка: [{article['title']}](../../../{article['web_path']})\n\n")
             
             # Генерируем HTML-блок для вставки в конец статьи
             md.write("#### 📋 HTML для вставки в конец статьи:\n\n")

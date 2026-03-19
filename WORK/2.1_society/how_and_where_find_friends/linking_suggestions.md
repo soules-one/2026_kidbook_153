@@ -1,6 +1,6 @@
 # Отчет по перелинковке концептов
 
-*Дата генерации: 2026-03-19 12:00*
+*Дата генерации: 2026-03-19 12:22*
 
 ## 📊 Статистика
 
@@ -25,37 +25,37 @@
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.443 (🔴 Сильная)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.202 (🟡 Средняя)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Цифровая дружба: реально ли найти друга в соцсетях?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md`
    - Схожесть: 0.159 (🟢 Слабая)
-   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
+   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](../../../WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
 
 1. **Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md`
    - Схожесть: 0.121 (🟢 Слабая)
-   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
+   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](../../../WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
 
 1. **Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md`
    - Схожесть: 0.116 (🟢 Слабая)
-   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
+   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](../../../WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
 
 1. **Дружба с соседями: новый тренд или забытое старое?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md`
    - Схожесть: 0.110 (🟢 Слабая)
-   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
+   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
 
 1. **Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md`
    - Схожесть: 0.103 (🟢 Слабая)
-   - Ссылка: [Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»](WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md)
+   - Ссылка: [Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -104,27 +104,27 @@
 1. **Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md`
    - Схожесть: 0.426 (🔴 Сильная)
-   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
+   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](../../../WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.150 (🟢 Слабая)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.135 (🟢 Слабая)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md`
    - Схожесть: 0.099 (🟢 Слабая)
-   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
+   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](../../../WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
 
 1. **Цифровая дружба: реально ли найти друга в соцсетях?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md`
    - Схожесть: 0.099 (🟢 Слабая)
-   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
+   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](../../../WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -169,42 +169,42 @@
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.447 (🔴 Сильная)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.254 (🟡 Средняя)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Цифровая дружба: реально ли найти друга в соцсетях?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md`
    - Схожесть: 0.169 (🟢 Слабая)
-   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
+   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](../../../WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
 
 1. **Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md`
    - Схожесть: 0.123 (🟢 Слабая)
-   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
+   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](../../../WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
 
 1. **Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md`
    - Схожесть: 0.121 (🟢 Слабая)
-   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
+   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](../../../WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
 
 1. **Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md`
    - Схожесть: 0.097 (🟢 Слабая)
-   - Ссылка: [Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»](WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md)
+   - Ссылка: [Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md)
 
 1. **Дружба с соседями: новый тренд или забытое старое?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md`
    - Схожесть: 0.096 (🟢 Слабая)
-   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
+   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
 
 1. **Топ-10 неочевидных мест для знакомства**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md`
    - Схожесть: 0.093 (🟢 Слабая)
-   - Ссылка: [Топ-10 неочевидных мест для знакомства](WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
+   - Ссылка: [Топ-10 неочевидных мест для знакомства](../../../WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -255,27 +255,27 @@
 1. **Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md`
    - Схожесть: 0.208 (🟡 Средняя)
-   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
+   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](../../../WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.141 (🟢 Слабая)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.139 (🟢 Слабая)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Стресс и «эмоциональное поедание»: Как экзамены портят пищевые привычки**
    - Путь: `WEB/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md`
    - Схожесть: 0.123 (🟢 Слабая)
-   - Ссылка: [Стресс и «эмоциональное поедание»: Как экзамены портят пищевые привычки](WEB/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md)
+   - Ссылка: [Стресс и «эмоциональное поедание»: Как экзамены портят пищевые привычки](../../../WEB/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md)
 
 1. **Цифровая дружба: реально ли найти друга в соцсетях?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md`
    - Схожесть: 0.120 (🟢 Слабая)
-   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
+   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](../../../WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -320,52 +320,52 @@
 1. **Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md`
    - Схожесть: 0.273 (🟡 Средняя)
-   - Ссылка: [Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы](WEB/2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md)
+   - Ссылка: [Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы](../../../WEB/2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md)
 
 1. **Топ-10 неочевидных мест для знакомства**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md`
    - Схожесть: 0.159 (🟢 Слабая)
-   - Ссылка: [Топ-10 неочевидных мест для знакомства](WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
+   - Ссылка: [Топ-10 неочевидных мест для знакомства](../../../WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.157 (🟢 Слабая)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Skill-микс: идём на курсы не за дипломом, а за людьми**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md`
    - Схожесть: 0.150 (🟢 Слабая)
-   - Ссылка: [Skill-микс: идём на курсы не за дипломом, а за людьми](WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md)
+   - Ссылка: [Skill-микс: идём на курсы не за дипломом, а за людьми](../../../WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md)
 
 1. **Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md`
    - Схожесть: 0.132 (🟢 Слабая)
-   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
+   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](../../../WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
 
 1. **Не просто болтун: как стать интересным собеседником и расположить к себе любого**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/interesnoe_obshchenie.md`
    - Схожесть: 0.131 (🟢 Слабая)
-   - Ссылка: [Не просто болтун: как стать интересным собеседником и расположить к себе любого](WEB/2.1_society/how_and_where_find_friends/articles/interesnoe_obshchenie.md)
+   - Ссылка: [Не просто болтун: как стать интересным собеседником и расположить к себе любого](../../../WEB/2.1_society/how_and_where_find_friends/articles/interesnoe_obshchenie.md)
 
 1. **Дружба с соседями: новый тренд или забытое старое?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md`
    - Схожесть: 0.118 (🟢 Слабая)
-   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
+   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
 
 1. **Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md`
    - Схожесть: 0.109 (🟢 Слабая)
-   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
+   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](../../../WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.105 (🟢 Слабая)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md`
    - Схожесть: 0.094 (🟢 Слабая)
-   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
+   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](../../../WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -420,47 +420,47 @@
 1. **Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md`
    - Схожесть: 0.385 (🔴 Сильная)
-   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
+   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](../../../WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
 
 1. **Цифровая дружба: реально ли найти друга в соцсетях?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md`
    - Схожесть: 0.233 (🟡 Средняя)
-   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
+   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](../../../WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.180 (🟢 Слабая)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Эмпатия как анализ чувств 🧠💞**
    - Путь: `WEB/2.1_society/cause_and_effect_relationships/articles/empathy_causality.md`
    - Схожесть: 0.159 (🟢 Слабая)
-   - Ссылка: [Эмпатия как анализ чувств 🧠💞](WEB/2.1_society/cause_and_effect_relationships/articles/empathy_causality.md)
+   - Ссылка: [Эмпатия как анализ чувств 🧠💞](../../../WEB/2.1_society/cause_and_effect_relationships/articles/empathy_causality.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.148 (🟢 Слабая)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md`
    - Схожесть: 0.100 (🟢 Слабая)
-   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
+   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](../../../WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
 
 1. **Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md`
    - Схожесть: 0.100 (🟢 Слабая)
-   - Ссылка: [Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы](WEB/2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md)
+   - Ссылка: [Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы](../../../WEB/2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md)
 
 1. **Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md`
    - Схожесть: 0.097 (🟢 Слабая)
-   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
+   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](../../../WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
 
 1. **Топ-10 неочевидных мест для знакомства**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md`
    - Схожесть: 0.084 (🟢 Слабая)
-   - Ссылка: [Топ-10 неочевидных мест для знакомства](WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
+   - Ссылка: [Топ-10 неочевидных мест для знакомства](../../../WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -513,37 +513,37 @@
 1. **Volunteering And Helping Others**
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/volunteering_and_helping_others.md`
    - Схожесть: 0.263 (🟡 Средняя)
-   - Ссылка: [Volunteering And Helping Others](WEB/7.2_leisure/useful_and_interesting_leisure/articles/volunteering_and_helping_others.md)
+   - Ссылка: [Volunteering And Helping Others](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/volunteering_and_helping_others.md)
 
 1. **Топ-10 неочевидных мест для знакомства**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md`
    - Схожесть: 0.169 (🟢 Слабая)
-   - Ссылка: [Топ-10 неочевидных мест для знакомства](WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
+   - Ссылка: [Топ-10 неочевидных мест для знакомства](../../../WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.153 (🟢 Слабая)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Clubs And Sections**
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections.md`
    - Схожесть: 0.135 (🟢 Слабая)
-   - Ссылка: [Clubs And Sections](WEB/7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections.md)
+   - Ссылка: [Clubs And Sections](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections.md)
 
 1. **Настольные игры**
    - Путь: `WEB/8.1_entertainment/articles/board-games.md`
    - Схожесть: 0.133 (🟢 Слабая)
-   - Ссылка: [Настольные игры](WEB/8.1_entertainment/articles/board-games.md)
+   - Ссылка: [Настольные игры](../../../WEB/8.1_entertainment/articles/board-games.md)
 
 1. **Настольные и интеллектуальные игры 🎲📚**
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/board_and_intellectual_games.md`
    - Схожесть: 0.112 (🟢 Слабая)
-   - Ссылка: [Настольные и интеллектуальные игры 🎲📚](WEB/7.2_leisure/useful_and_interesting_leisure/articles/board_and_intellectual_games.md)
+   - Ссылка: [Настольные и интеллектуальные игры 🎲📚](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/board_and_intellectual_games.md)
 
 1. **Skill-микс: идём на курсы не за дипломом, а за людьми**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md`
    - Схожесть: 0.110 (🟢 Слабая)
-   - Ссылка: [Skill-микс: идём на курсы не за дипломом, а за людьми](WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md)
+   - Ссылка: [Skill-микс: идём на курсы не за дипломом, а за людьми](../../../WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -592,22 +592,22 @@
 1. **Дружба с соседями: новый тренд или забытое старое?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md`
    - Схожесть: 0.310 (🔴 Сильная)
-   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
+   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
 
 1. **Цифровая дружба: реально ли найти друга в соцсетях?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md`
    - Схожесть: 0.248 (🟡 Средняя)
-   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
+   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](../../../WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.180 (🟢 Слабая)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.159 (🟢 Слабая)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -650,27 +650,27 @@
 1. **Skill-микс: идём на курсы не за дипломом, а за людьми**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md`
    - Схожесть: 0.330 (🔴 Сильная)
-   - Ссылка: [Skill-микс: идём на курсы не за дипломом, а за людьми](WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md)
+   - Ссылка: [Skill-микс: идём на курсы не за дипломом, а за людьми](../../../WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md)
 
 1. **Топ-10 неочевидных мест для знакомства**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md`
    - Схожесть: 0.161 (🟢 Слабая)
-   - Ссылка: [Топ-10 неочевидных мест для знакомства](WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
+   - Ссылка: [Топ-10 неочевидных мест для знакомства](../../../WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.127 (🟢 Слабая)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Дружба с соседями: новый тренд или забытое старое?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md`
    - Схожесть: 0.103 (🟢 Слабая)
-   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
+   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.101 (🟢 Слабая)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -715,77 +715,77 @@
 1. **Clubs And Sections**
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections.md`
    - Схожесть: 0.288 (🟡 Средняя)
-   - Ссылка: [Clubs And Sections](WEB/7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections.md)
+   - Ссылка: [Clubs And Sections](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections.md)
 
 1. **Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md`
    - Схожесть: 0.268 (🟡 Средняя)
-   - Ссылка: [Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»](WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md)
+   - Ссылка: [Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.257 (🟡 Средняя)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.215 (🟡 Средняя)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Цифровая дружба: реально ли найти друга в соцсетях?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md`
    - Схожесть: 0.173 (🟢 Слабая)
-   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
+   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](../../../WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
 
 1. **🎨 Ошибки при выборе хобби 🎯**
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/mistakes_in_choosing_hobby.md`
    - Схожесть: 0.153 (🟢 Слабая)
-   - Ссылка: [🎨 Ошибки при выборе хобби 🎯](WEB/7.2_leisure/useful_and_interesting_leisure/articles/mistakes_in_choosing_hobby.md)
+   - Ссылка: [🎨 Ошибки при выборе хобби 🎯](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/mistakes_in_choosing_hobby.md)
 
 1. **Топ-10 неочевидных мест для знакомства**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md`
    - Схожесть: 0.129 (🟢 Слабая)
-   - Ссылка: [Топ-10 неочевидных мест для знакомства](WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
+   - Ссылка: [Топ-10 неочевидных мест для знакомства](../../../WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
 
 1. **Balance Study Rest Hobby**
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md`
    - Схожесть: 0.114 (🟢 Слабая)
-   - Ссылка: [Balance Study Rest Hobby](WEB/7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md)
+   - Ссылка: [Balance Study Rest Hobby](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md)
 
 1. **Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md`
    - Схожесть: 0.114 (🟢 Слабая)
-   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
+   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](../../../WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
 
 1. **Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md`
    - Схожесть: 0.111 (🟢 Слабая)
-   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
+   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](../../../WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
 
 1. **How Not To Quit Hobby**
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md`
    - Схожесть: 0.094 (🟢 Слабая)
-   - Ссылка: [How Not To Quit Hobby](WEB/7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md)
+   - Ссылка: [How Not To Quit Hobby](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md)
 
 1. **Useful Vs Useless Leisure**
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md`
    - Схожесть: 0.092 (🟢 Слабая)
-   - Ссылка: [Useful Vs Useless Leisure](WEB/7.2_leisure/useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md)
+   - Ссылка: [Useful Vs Useless Leisure](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md)
 
 1. **Дружба с соседями: новый тренд или забытое старое?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md`
    - Схожесть: 0.089 (🟢 Слабая)
-   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
+   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
 
 1. **📅 **Режим дня и время на хобби****
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/time_for_hobby_daily_routine.md`
    - Схожесть: 0.089 (🟢 Слабая)
-   - Ссылка: [📅 **Режим дня и время на хобби**](WEB/7.2_leisure/useful_and_interesting_leisure/articles/time_for_hobby_daily_routine.md)
+   - Ссылка: [📅 **Режим дня и время на хобби**](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/time_for_hobby_daily_routine.md)
 
 1. **Free Leisure Activities**
    - Путь: `WEB/7.2_leisure/useful_and_interesting_leisure/articles/free_leisure_activities.md`
    - Схожесть: 0.083 (🟢 Слабая)
-   - Ссылка: [Free Leisure Activities](WEB/7.2_leisure/useful_and_interesting_leisure/articles/free_leisure_activities.md)
+   - Ссылка: [Free Leisure Activities](../../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/free_leisure_activities.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -850,47 +850,47 @@
 1. **Не просто болтун: как стать интересным собеседником и расположить к себе любого**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/interesnoe_obshchenie.md`
    - Схожесть: 0.235 (🟡 Средняя)
-   - Ссылка: [Не просто болтун: как стать интересным собеседником и расположить к себе любого](WEB/2.1_society/how_and_where_find_friends/articles/interesnoe_obshchenie.md)
+   - Ссылка: [Не просто болтун: как стать интересным собеседником и расположить к себе любого](../../../WEB/2.1_society/how_and_where_find_friends/articles/interesnoe_obshchenie.md)
 
 1. **Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md`
    - Схожесть: 0.216 (🟡 Средняя)
-   - Ссылка: [Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы](WEB/2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md)
+   - Ссылка: [Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы](../../../WEB/2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.146 (🟢 Слабая)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md`
    - Схожесть: 0.128 (🟢 Слабая)
-   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
+   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](../../../WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.123 (🟢 Слабая)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md`
    - Схожесть: 0.119 (🟢 Слабая)
-   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
+   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](../../../WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
 
 1. **Дружба с соседями: новый тренд или забытое старое?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md`
    - Схожесть: 0.114 (🟢 Слабая)
-   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
+   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
 
 1. **Skill-микс: идём на курсы не за дипломом, а за людьми**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md`
    - Схожесть: 0.094 (🟢 Слабая)
-   - Ссылка: [Skill-микс: идём на курсы не за дипломом, а за людьми](WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md)
+   - Ссылка: [Skill-микс: идём на курсы не за дипломом, а за людьми](../../../WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md)
 
 1. **Топ-10 неочевидных мест для знакомства**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md`
    - Схожесть: 0.085 (🟢 Слабая)
-   - Ссылка: [Топ-10 неочевидных мест для знакомства](WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
+   - Ссылка: [Топ-10 неочевидных мест для знакомства](../../../WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
@@ -943,62 +943,62 @@
 1. **Цифровая дружба: реально ли найти друга в соцсетях?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md`
    - Схожесть: 0.483 (🔴 Сильная)
-   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
+   - Ссылка: [Цифровая дружба: реально ли найти друга в соцсетях?](../../../WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
 
 1. **Гайд для интровертов: как найти друзей, не истощая свой ресурс**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md`
    - Схожесть: 0.294 (🟡 Средняя)
-   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
+   - Ссылка: [Гайд для интровертов: как найти друзей, не истощая свой ресурс](../../../WEB/2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 1. **Можно ли найти друзей случайно**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md`
    - Схожесть: 0.293 (🟡 Средняя)
-   - Ссылка: [Можно ли найти друзей случайно](WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
+   - Ссылка: [Можно ли найти друзей случайно](../../../WEB/2.1_society/how_and_where_find_friends/articles/mozno_li_naiti_druzei_sluchaino.md)
 
 1. **Этика общения в сети**
    - Путь: `WEB/5.1_technology_and_digital_literacy/information and media literacy/articles/этика_общения_в_сети.md`
    - Схожесть: 0.137 (🟢 Слабая)
-   - Ссылка: [Этика общения в сети](WEB/5.1_technology_and_digital_literacy/information and media literacy/articles/этика_общения_в_сети.md)
+   - Ссылка: [Этика общения в сети](../../../WEB/5.1_technology_and_digital_literacy/information and media literacy/articles/этика_общения_в_сети.md)
 
 1. **Цифровая репутация: как твои посты влияют на твоё будущее**
    - Путь: `WEB/5.1_technology_and_digital_literacy/information and media literacy/articles/цифровая_репутация.md`
    - Схожесть: 0.133 (🟢 Слабая)
-   - Ссылка: [Цифровая репутация: как твои посты влияют на твоё будущее](WEB/5.1_technology_and_digital_literacy/information and media literacy/articles/цифровая_репутация.md)
+   - Ссылка: [Цифровая репутация: как твои посты влияют на твоё будущее](../../../WEB/5.1_technology_and_digital_literacy/information and media literacy/articles/цифровая_репутация.md)
 
 1. **Топ-10 неочевидных мест для знакомства**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md`
    - Схожесть: 0.129 (🟢 Слабая)
-   - Ссылка: [Топ-10 неочевидных мест для знакомства](WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
+   - Ссылка: [Топ-10 неочевидных мест для знакомства](../../../WEB/2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md)
 
 1. **Дружба с соседями: новый тренд или забытое старое?**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md`
    - Схожесть: 0.121 (🟢 Слабая)
-   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
+   - Ссылка: [Дружба с соседями: новый тренд или забытое старое?](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md)
 
 1. **Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md`
    - Схожесть: 0.112 (🟢 Слабая)
-   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
+   - Ссылка: [Отказ — это не конец: как пережить, что новый знакомый не захотел продолжать общение](../../../WEB/2.1_society/how_and_where_find_friends/articles/otkaz_ne_konts.md)
 
 1. **Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md`
    - Схожесть: 0.106 (🟢 Слабая)
-   - Ссылка: [Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»](WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md)
+   - Ссылка: [Свой среди чужих: как найти друзей по хобби и перестать быть «белой вороной»](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzia_i_hobby.md)
 
 1. **Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md`
    - Схожесть: 0.086 (🟢 Слабая)
-   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
+   - Ссылка: [Друг познается в переписке: Почему в онлайне легче быть собой и как перенести это в реальность](../../../WEB/2.1_society/how_and_where_find_friends/articles/drug_poznaetsya_v_perepiske.md)
 
 1. **Информационная безопасность для детей**
    - Путь: `WEB/5.1_technology_and_digital_literacy/information and media literacy/articles/информационная_безопасность_для_детей.md`
    - Схожесть: 0.084 (🟢 Слабая)
-   - Ссылка: [Информационная безопасность для детей](WEB/5.1_technology_and_digital_literacy/information and media literacy/articles/информационная_безопасность_для_детей.md)
+   - Ссылка: [Информационная безопасность для детей](../../../WEB/5.1_technology_and_digital_literacy/information and media literacy/articles/информационная_безопасность_для_детей.md)
 
 1. **Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"**
    - Путь: `WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md`
    - Схожесть: 0.081 (🟢 Слабая)
-   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
+   - Ссылка: [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](../../../WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
 
 #### 📋 HTML для вставки в конец статьи:
 
